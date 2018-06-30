@@ -19,7 +19,7 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<dropwizard.version>1.3.5</dropwizard.version>
 		<spring.version>4.3.2.RELEASE</spring.version>
-		<mainClass>com.raj.ehttp.echo-httpApplication</mainClass>
+		<mainClass>com.raj.ehttp.EHttpApplication</mainClass>
 	</properties>
 
 	<dependencyManagement>
