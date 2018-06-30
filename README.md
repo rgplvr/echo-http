@@ -27,5 +27,5 @@ How to start the echo-http application
 
 Please note queryparams are ignored. while creating the config
 
-to get the api respose `http://localhost:8080/<uri>
+to get the api respose `http://localhost:8080/<uri>`
 
