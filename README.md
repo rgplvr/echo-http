@@ -29,7 +29,3 @@ Please note queryparams are ignored. while creating the config
 
 to get the api respose `http://localhost:8080/<uri>
 
-Health Check
----
-
-To see your applications health enter url `http://localhost:8081/healthcheck`
