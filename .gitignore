@@ -1,0 +1,9 @@
+.classpath
+.idea/
+.ignore.swp
+.project
+.settings/
+dependency-reduced-pom.xml
+echo-http.iml
+uriconfigs/
+target/

@@ -1,0 +1,5 @@
+pathForJsons: "uriconfigs"
+logging:
+  level: INFO
+  loggers:
+    echo-http: DEBUG
